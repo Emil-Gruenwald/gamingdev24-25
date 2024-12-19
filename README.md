@@ -21,4 +21,4 @@ This is a group project where my main role was to do all the coding for the appl
 
 ### Other Projects
 #### Individual Project
-This project I worked on alone for some time. It is a basic fighting game, without much complexity or complicated assets. Link to the projects repository: [Link]([https://www.google.com](https://github.com/Emil-Gruenwald/IndividualProject))
+This project I worked on alone for some time. It is a basic fighting game, without much complexity or complicated assets. Link to the projects repository: [Link](https://github.com/Emil-Gruenwald/IndividualProject)
