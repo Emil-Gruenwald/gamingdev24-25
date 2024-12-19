@@ -4,9 +4,9 @@
 [Email Me](mailto:408425@graniteschools.org)
 
 ## Certifications
-Game Development Fundamentals
-Computer Pogramming 1
-Computer Programming 2 C++
+- Game Development Fundamentals
+- Computer Pogramming 1
+- Computer Programming 2 C++
 
 ### Term 1 Projects
 
