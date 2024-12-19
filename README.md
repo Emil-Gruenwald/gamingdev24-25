@@ -3,8 +3,10 @@
 ## Contact Info
 [Email Me](mailto:408425@graniteschools.org)
 
-## Gaming Development Portfolio
-Gaming development and coding student, with some experience in robotics. My first year taking a gaming development class. I enjoy coding and playing rpg and fighting games. I am taking this class to learn more about making games, and coding skills specific to games.
+## Certifications
+Game Development Fundamentals
+Computer Pogramming 1
+Computer Programming 2 C++
 
 ### Term 1 Projects
 
