@@ -13,6 +13,7 @@
 ### Term 2 Projects
 #### Blizzard (In Progress)
 This is a group project where my main role was to do all the coding for the application. THe game idea is quite simple, with the main objective being to survive a intense blizzard while running away from a monster.
+![Running Application](https://github.com/Emil-Gruenwald/gamingdev24-25/blob/main/images/BlizzardRun.png?raw=true)
 
 ### Term 3 Projects
 
